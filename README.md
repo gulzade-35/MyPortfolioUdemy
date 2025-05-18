@@ -28,3 +28,5 @@ FRONTEND
 
 📷 Proje Görselleri
 
+![Image](https://github.com/user-attachments/assets/3c38795f-74a3-4b54-ac16-702718e3bf82)
+
