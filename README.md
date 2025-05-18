@@ -41,3 +41,5 @@ FRONTEND
 ![Image](https://github.com/user-attachments/assets/cb7322b7-6243-408d-8557-72af5ad6429c)
 
 ![Image](https://github.com/user-attachments/assets/9198e813-c784-451f-a586-5f776ea0d67e)
+
+![Image](https://github.com/user-attachments/assets/8c7ac047-776e-48f9-9caf-5c0fb460218d)
